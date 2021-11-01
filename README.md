@@ -1,3 +1,3 @@
-# f2_team2_project2
+# ProjectGallery.github.io
 Alexandra Gallery. Art project
 (spring 2021)
